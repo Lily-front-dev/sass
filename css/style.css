@@ -1,0 +1,15 @@
+header {
+  background: yellow;
+}
+
+body {
+  color: green;
+}
+
+body .block {
+  color: blue;
+}
+
+.red {
+  color: red;
+}
